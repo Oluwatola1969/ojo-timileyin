@@ -41,6 +41,10 @@ a{
     color: var(--color-pry);
 }
 
+.active{
+    color: var(--color-pry);
+}
+
 .contact{
     background-color: var(--color-bg);
     padding: 8px 19px;
